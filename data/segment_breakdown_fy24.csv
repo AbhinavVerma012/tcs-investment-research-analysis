@@ -1,0 +1,16 @@
+segment_type,segment_name,share_percentage
+Vertical,Banking Financial Services & Insurance (BFSI),32.0
+Vertical,Consumer Business (Retail & CPG),15.7
+Vertical,Life Sciences & Healthcare,10.9
+Vertical,Manufacturing,8.7
+Vertical,Technology & Services,8.7
+Vertical,Communication & Media,6.6
+Vertical,Energy Resources & Utilities,5.7
+Vertical,Regional Markets & Others,11.7
+Geography,North America,50.1
+Geography,United Kingdom,16.6
+Geography,Continental Europe,15.2
+Geography,Asia Pacific,7.8
+Geography,India,5.5
+Geography,Middle East & Africa,2.6
+Geography,Latin America,2.2
